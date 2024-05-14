@@ -1,0 +1,71 @@
+body{
+background-color: rgb(177, 176, 248);
+}
+
+h1.header{
+text-align: center;
+color: orange;
+}
+
+p.asir{
+color: blue;
+position: relative;
+left: 150px;
+}
+
+p.daw{
+position: relative;
+left: 350px;
+}
+
+div.daw{
+background-color: pink;
+color: blue;
+}
+
+p.dam{
+color: blue;
+position: relative;
+left: 200px;
+}
+
+span{
+color: red;
+}
+
+footer{
+background-color: yellow;
+color: blue;
+text-align: center;
+}
+
+table{
+border: blue;
+text-align: center;
+}
+
+div.tabla{
+background-color: rgb(252, 112, 112);
+width: 800px;
+height: 100px;
+}
+
+h2.asir{
+background-color: blue;
+color: orange;
+text-align: center;
+width: 620px;
+}
+
+h2.daw{
+background-color: aquamarine;
+color: orange;
+text-align: center;
+width: 600px;
+}
+
+div.formulario{
+text-align: center;
+background-color: orange;
+width: 800px;
+}
